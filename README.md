@@ -18,3 +18,6 @@ With JSON schema, you can use IntelliSense in **Visual Studio Code** when editin
 4. create template files named **tpl_*.json**.
 
     ![JSON schema for barcode template files](dbr-template.gif)
+    
+## Blog
+[JSON Schema for Dynamsoft Barcode Reader Template Files](http://www.codepool.biz/json-schema-barcode-template-files.html)
